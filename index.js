@@ -25,20 +25,30 @@
 // console.log(number--); //* 27
 // console.log(number);//* 26
 
-let number = 7;
+// let number = 7;
 
 //! number = number * 10
-number *= 10;
-console.log(number);
+// number *= 10;
+// console.log(number);
 
 //! number = number / 10
-number /= 10;
-console.log(number);
+// number /= 10;
+// console.log(number);
 
 //! number = number + 10
-number += 10;
-console.log(number);
+// number += 10;
+// console.log(number);
 
 //! number = number - 10
-number -= 10;
-console.log(number);
+// number -= 10;
+// console.log(number);
+
+//! Истинная ложь
+/*
+false
+null
+undefined
+''
+0 +0 -0
+NaN
+*/
