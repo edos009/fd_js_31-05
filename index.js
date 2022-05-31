@@ -52,3 +52,17 @@ undefined
 0 +0 -0
 NaN
 */
+
+//! ИЛИ - Логическое сложение
+//! Возвращает первую правду или последнюю ложь
+console.log(true||true); //* true
+console.log(true||false); //* true
+console.log(false||true); //* true
+console.log(false||false); //* false
+
+//! И - Логическое умножение
+//! Возвращает первую ложь или последнюю правду
+console.log(true&&true); //* true
+console.log(true&&false); //* false
+console.log(false&&true); //* false
+console.log(false&&false); //* false
